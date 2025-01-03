@@ -1,3 +1,4 @@
 123456,Narayan,Narayan@#$,10000.0
 234567,Narayan,narayan@#$%,23700.0
 345678,shivangi,shivangi@#$,21700.0
+567890,omkar,omkar@#$,39800.0
